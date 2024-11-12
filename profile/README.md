@@ -18,7 +18,8 @@ SliceOSM is an [OpenStreetMap US Community Project](https://openstreetmap.us/our
 * [Geofabrik Downloads](https://download.geofabrik.de/) for PBFs of pre-selected areas updated once a day.
 * [Overpass Ultra](http://overpass-ultra.us), [Overpass Turbo](https://overpass-turbo.eu) for GeoJSON downloads of minute-updated data, or data filtered only to certain tags. 
 
-
 ## Background
+
+The hosted instance is provided on a best-effort, volunteer basis. Heavy automated use of the API is discouraged - if you need bulk exports please use a weekly planet dump + [osmium-tool](https://osmcode.org/osmium-tool/) instead.
 
 This project previously existed as **Protomaps Extracts** but has been migrated to OSMUS. It succeeds a long line of extract services including [migurski/Extractotron](https://github.com/migurski/Extractotron) and [Mapzen Extracts On Demand](https://www.mapzen.com/blog/metro-extracts-on-demand/).
