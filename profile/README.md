@@ -4,7 +4,7 @@ If you've just edited OpenStreetMap, a new [OSM PBF](https://wiki.openstreetmap.
 
 Create a slice for any custom bounding box, GeoJSON polygon or multipolygon area.
 
-SliceOSM is an [OpenStreetMap US Community Project](https://openstreetmap.us/our-work/community-charter-projects/).
+SliceOSM is an [OpenStreetMap US Community Project](https://openstreetmap.us/our-work/community-charter-projects/). See the [Privacy Policy](https://github.com/SliceOSM/.github/blob/main/PRIVACY.md) for usage data we collect.
 
 ## Components
 
