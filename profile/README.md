@@ -16,7 +16,7 @@ SliceOSM is an [OpenStreetMap US Community Project](https://openstreetmap.us/our
 
 * [planet.openstreetmap.org](https://planet.openstreetmap.org) for the full planet PBF, updated weekly.
 * [Geofabrik Downloads](https://download.geofabrik.de/) for PBFs of pre-selected areas updated once a day.
-* [Overpass Ultra](http://overpass-ultra.us), [Overpass Turbo](https://overpass-turbo.eu) for GeoJSON downloads of minute-updated data, or data filtered only to certain tags. 
+* [Ultra](http://overpass-ultra.us) or [Overpass Turbo](https://overpass-turbo.eu) for GeoJSON downloads of minute-updated data, or data filtered only to certain tags. 
 
 ## Background
 
